@@ -1,5 +1,6 @@
 {
   "home": "https://github.com/tanaypaulswin/smartpaymate",
+  "description": " smart way to handle all bills and payments",
   "name": "smartpaymate",
   "version": "0.1.0",
   "private": true,
