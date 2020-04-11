@@ -10,7 +10,7 @@ const StyledApp = styled('div')`
 const App = () => {
   return (
     <StyledApp>
-      <h1>SmartPayMate - Your Bill Handler</h1>
+      <h1>SmartPayMate - A new way to handle your bills and payments.</h1>
     </StyledApp>
   );
 };
