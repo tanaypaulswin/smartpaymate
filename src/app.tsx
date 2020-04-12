@@ -11,6 +11,7 @@ const App = () => {
   return (
     <StyledApp>
       <h1>SmartPayMate - A new way to handle your bills and payments.</h1>
+      <h2>Tanay Kanti Paul</h2>
     </StyledApp>
   );
 };
